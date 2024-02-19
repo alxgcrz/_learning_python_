@@ -1,8 +1,28 @@
-# Apuntes de Python 3
+# Python 3
 
-Python fue creado por Guido Van Rossum en el principio de los 90'. Ahora es uno
-de los lenguajes más populares en existencia. Me enamoré de Python por su claridad sintáctica.
-Es básicamente pseudocódigo ejecutable.
+... EN DESARROLLO ...
+
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <a href="https://alxgcrz.com" target="_blank">
+    <img src="https://alxgcrz.com/assets/asset_06_v1.png" alt="En desarrollo" title="En desarrollo" width="40%">
+  </a>
+</p>
+<!-- markdownlint-enable MD033 -->
+
+## Introducción
+
+**Python 3** es un lenguaje de programación de alto nivel, interpretado y de propósito general. Fue creado con un enfoque en la legibilidad del código y la simplicidad, lo que lo convierte en una excelente opción tanto para principiantes como para desarrolladores experimentados.
+
+Algunas características destacadas de Python 3 incluyen su sintaxis clara y concisa, lo que facilita la escritura y comprensión del código. Además, es un lenguaje versátil que se utiliza en una amplia variedad de aplicaciones, desde desarrollo web y scripting hasta inteligencia artificial y análisis de datos.
+
+Python 3 es conocido por su amplia biblioteca estándar, que proporciona módulos y paquetes predefinidos para realizar diversas tareas, lo que ahorra tiempo y esfuerzo al programar. Además, cuenta con una comunidad activa que contribuye al desarrollo y mejora continua del lenguaje.
+
+Su popularidad se debe en parte a su facilidad de aprendizaje, lo que lo convierte en una opción ideal para aquellos que están comenzando en el mundo de la programación. En resumen, Python 3 es un lenguaje poderoso y accesible que ha ganado gran aceptación en la industria de la programación.
+
+> Sección generada por ChatGPT
+
+## Resumen
 
 ```python
 
@@ -547,14 +567,17 @@ print(decir())  # ¿Puedes comprarme una cerveza?
 print(decir(decir_por_favor=True))  # ¿Puedes comprarme una cerveza? ¡Por favor! Soy pobre :()
 ```
 
-## Más información
+---
 
-### Gratis y en línea
+## Enlaces de interés
 
-* [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
-* [Dive Into Python](http://www.diveintopython.net/)
-* [Ideas for Python Projects](http://pythonpracticeprojects.com)
-* [The Official Docs](http://docs.python.org/3/)
-* [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
-* [Python Module of the Week](http://pymotw.com/3/)
-* [A Crash Course in Python for Scientists](http://nbviewer.ipython.org/5920182)
+- <https://docs.python.org/3/>
+- <https://docs.python-guide.org/>
+- <https://pymotw.com/3/>
+- <https://es.py4e.com/book>
+- <https://code.visualstudio.com/docs/languages/python>
+
+## Licencia
+
+[![Licencia de Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+Esta obra está bajo una [licencia de Creative Commons Reconocimiento-Compartir Igual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
