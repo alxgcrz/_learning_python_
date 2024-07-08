@@ -2,14 +2,6 @@
 
 ... EN DESARROLLO ...
 
-<!-- markdownlint-disable MD033 -->
-<p align="center">
-  <a href="https://alxgcrz.com" target="_blank">
-    <img src="https://alxgcrz.com/assets/asset_06_v1.png" alt="En desarrollo" title="En desarrollo" width="40%">
-  </a>
-</p>
-<!-- markdownlint-enable MD033 -->
-
 ## Introducción
 
 **Python 3** es un lenguaje de programación de alto nivel, interpretado y de propósito general. Fue creado con un enfoque en la legibilidad del código y la simplicidad, lo que lo convierte en una excelente opción tanto para principiantes como para desarrolladores experimentados.
@@ -569,7 +561,7 @@ print(decir(decir_por_favor=True))  # ¿Puedes comprarme una cerveza? ¡Por favo
 
 ---
 
-## Enlaces de interés
+## Referencias
 
 - <https://docs.python.org/3/>
 - <https://docs.python-guide.org/>
