@@ -1,6 +1,6 @@
 # Python 3
 
-... EN DESARROLLO ...
+> :warning: **DOCUMENTO EN DESARROLLO** :warning:
 
 ## Introducción
 
@@ -12,7 +12,7 @@ Python 3 es conocido por su amplia biblioteca estándar, que proporciona módulo
 
 Su popularidad se debe en parte a su facilidad de aprendizaje, lo que lo convierte en una opción ideal para aquellos que están comenzando en el mundo de la programación. En resumen, Python 3 es un lenguaje poderoso y accesible que ha ganado gran aceptación en la industria de la programación.
 
-> Sección generada por ChatGPT
+> :warning: Sección generada por ChatGPT :warning:
 
 ## Resumen
 
@@ -210,12 +210,14 @@ dicc_lleno = {"uno": 1, "dos": 2, "tres": 3}
 # Busca valores con []
 dicc_lleno["uno"] #=> 1
 
-# Obtén todas las llaves como una lista con 'keys()'. Necesitamos envolver la llamada en 'list()' porque obtenemos un iterable. Hablaremos de eso luego.
+# Obtén todas las llaves como una lista con 'keys()'.
+# Necesitamos envolver la llamada en 'list()' porque obtenemos un iterable. Hablaremos de eso luego.
 list(dicc_lleno.keys()) #=> ["tres", "dos", "uno"]
 # Nota - El orden de las llaves del diccionario no está garantizada.
 # Tus resultados podrían no ser los mismos del ejemplo.
 
-# Obtén todos los valores como una lista. Nuevamente necesitamos envolverlas en una lista para sacarlas del iterable.
+# Obtén todos los valores como una lista.
+# Nuevamente necesitamos envolverlas en una lista para sacarlas del iterable.
 list(dicc_lleno.values()) #=> [3, 2, 1]
 # Nota - Lo mismo que con las llaves, no se garantiza el orden.
 
@@ -322,7 +324,7 @@ try:
 except IndexError as e:
     pass    # Pass no hace nada. Usualmente harias alguna recuperacion aqui.
 
-# Python oferce una abstracción fundamental llamada Iterable.
+# Python ofrece una abstracción fundamental llamada Iterable.
 # Un iterable es un objeto que puede ser tratado como una sequencia.
 # El objeto es retornado por la función 'range' es un iterable.
 
